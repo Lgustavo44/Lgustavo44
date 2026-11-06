@@ -1,51 +1,24 @@
-## 👋 Hello! Welcome to my Github profile.
+## Olá, eu sou o Gustavo 👋
 
-Sou Luiz Gustavo, mais conhecido como Gusta. Finalizei o curso de Informática e agora estudo Análise e Desenvolvimento de Sistemas (ADS). Trabalho como desenvolvedor .NET na empresa SporTi. Tenho grande interesse em explorar novas linguagens de programação e estou totalmente focado no desenvolvimento técnico. Em constante evolução, enfrento desafios e contribuo para a comunidade.
+Desenvolvedor **Full Stack .NET** na [SporTI](https://www.sporti.com.br), em Fortaleza/CE. Trabalho no back-end e no front-end de uma plataforma de gestão esportiva usada por clubes, escolas e federações.
 
-### Skills ⚡
+Fora do trabalho, construí o **[NogVita](https://nogvita.vercel.app)**, uma plataforma de acompanhamento nutricional feita do zero, com API em .NET 10 e front em Angular 22.
 
-**Tecnologias e Ferramentas**
+Uso o Claude todos os dias para gerar e revisar código, depurar e documentar, e estou estudando **Azure OpenAI** e **Semantic Kernel** para construir soluções com IA generativa.
 
-<!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
+### Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+`C#` `.NET` `ASP.NET Core` `Entity Framework Core` `SQL Server` `PostgreSQL` `MySQL` `Angular` `TypeScript` `Docker` `Clean Architecture` `Playwright`
 
+### Projetos em destaque
 
-### Databases que utilizo!
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-  ### Eu estou estudando... 🧩
-<div style="display: inline_block">
-  
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+| Projeto | O que é | Stack |
+|---|---|---|
+| [NogVitaApi](https://github.com/Lgustavo44/NogVitaApi) | API do NogVita: JWT com refresh token, papéis combináveis, planos alimentares com cálculo nutricional (TACO e Open Food Facts), testes de integração com Testcontainers | .NET 10, EF Core, PostgreSQL, Docker |
+| [NogVitaWeb](https://github.com/Lgustavo44/NogVitaWeb) | Front do NogVita: signals, tema escuro, acessibilidade WCAG 2.2 AA, testes E2E com Playwright na integração contínua | Angular 22, TypeScript, Tailwind CSS |
+| [AgendamentoAPI](https://github.com/Lgustavo44/AgendamentoAPI) | Sistema de agendamento de equipamentos para a escola técnica onde estudei | ASP.NET, Blazor, PostgreSQL, Docker |
+| [EssencialAPI](https://github.com/Lgustavo44/EssencialAPI) | API REST construída no curso Web API ASP.NET Core Essencial | ASP.NET Core, EF Core |
 
-  
- 
-</div><br/>
+### Contato
 
-<div>
-
-<a href="https://github.com/Lgustavo44">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgustavo44&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lgustavo44&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<hr>
-<center> <div>
-<a href="https://youtube.com/@gustaffx8463?si=EnSIkaIECMiOmarE" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/lgusta44_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/gustazz44_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavo-nogueira-506b162b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div><center>
-
-
-
+[LinkedIn](https://www.linkedin.com/in/gustavo-nogueira-506b162b2/) · gustadev44@gmail.com
